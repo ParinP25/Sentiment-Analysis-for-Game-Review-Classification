@@ -1,6 +1,6 @@
 # Sentiment-Analysis-for-Game-Review-Classification
 Data Mining of Game Reviews to create a classification/recommendation system through Sentiment Analysis   
-Python, Google Colab Notebooks 
+Python, Google Colab Notebooks  
 Nov 2023 - Dec 2023 
 
 - Implemented sentiment analysis to process reviews, generating data suitable for game recommendations  
